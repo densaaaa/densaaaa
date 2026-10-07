@@ -1,4 +1,4 @@
-# Hi, I'm <Denitszuuuu>! 👋
+# Hi, I'm Densaaaa! 👋
 
 I am an Information Technology student. I am interested in IT, especially programming and technology. I enjoy learning new things and improving my IT skills..
 
