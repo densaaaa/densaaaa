@@ -10,7 +10,7 @@ I am an Information Technology student. I am interested in IT, especially progra
 
 
 ##
-- And the one thing that never changes is that i love you.
+- I've changed everything about myself and the one thing that never changes is that i love you.
 
 
 
