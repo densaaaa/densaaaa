@@ -9,8 +9,8 @@ I am an Information Technology student. I am interested in IT, especially progra
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nextjs,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 
-##
-- I've changed everything about myself and the one thing that never changes is that i love you.
+## 
+I've changed everything about myself and the one thing that never changes is that i love you. 
 
 
 
