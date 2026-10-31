@@ -4,10 +4,10 @@
 I am an Information Technology student. I am interested in IT, especially programming and technology. I enjoy learning new things and improving my IT skills.
 
 
-
+<!--
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nextjs,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
-
+-->
 
 ## 
 I've changed everything about myself and the one thing that never changes is that i love you. 
